@@ -15,5 +15,8 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
-### Changes
+### Changes I
 This is the part that has changed...
+
+### Changes II
+The next version of the App has minor improvements
