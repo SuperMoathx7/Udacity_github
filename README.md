@@ -19,4 +19,7 @@ It's important to give proper credit. Add links to any repo that inspired you or
 This is the part that has changed...
 
 ### Changes II
-The next version of the App has minor improvements
+The second version of the App has minor improvements.
+
+### Changes III
+The Last version is the final one - I hope.
