@@ -23,3 +23,6 @@ The second version of the App has minor improvements.
 
 ### Changes III
 The Last version is the final one - I hope.
+
+## Changes IV
+The Previous version wasn't the Last :(
