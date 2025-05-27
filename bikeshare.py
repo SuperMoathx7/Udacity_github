@@ -2,11 +2,14 @@ import time
 import pandas as pd
 import numpy as np
 
+
 #also This in the python code, to see what will happen...
+=======
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
-
+#This function is to get the filters.
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
@@ -40,7 +43,7 @@ def get_filters():
     print('-'*40)
     return city, month, day
 
-
+#This function is the load the data.
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
